@@ -1,0 +1,22 @@
+
+
+
+
+## Konfiguration
+
+  * Gruntfile.js
+        angegeben wird nur ein Verzeichnis mit .svg-Dateien,
+        der rest geht von selbst :)
+
+  --> Ein Beispiel...
+
+
+
+
+
+
+
+
+
+
+# vim: filetype=markdown

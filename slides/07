@@ -1,0 +1,22 @@
+
+
+
+
+## Installation
+
+  * `npm init`
+        legt eine package.json an
+
+  * `npm install --save grunt grunt-webfont`   
+        installiert die notwendigen pakete und speichert sie 
+        in der package.json
+
+  * `npm install -g grunt-cli`
+        installiert den commandline-runner für grunt
+
+
+
+
+
+
+# vim: filetype=markdown

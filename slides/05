@@ -1,0 +1,20 @@
+
+
+
+
+## introducing _grunt-webfont_
+
+
+  SVG-Dateien ---> icons.ttf, icons.eot, icons.woff
+              \--> icons.css
+
+
+  * perfekt zum versionieren
+  * einfach zu bearbeiten
+  * vollautomatisch. 
+
+
+
+
+
+# vim: filetype=markdown
